@@ -1,0 +1,1 @@
+//caracteristicas de este js
